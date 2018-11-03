@@ -1,0 +1,84 @@
+====================================================================
+Time Encountered: July 2, 2014, 12:20:17 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 4:52:48 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 8:23:13 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u743284955_host already has more than 'max_user_connections' active connections
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 8:23:13 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 10:15:18 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u743284955_host already has more than 'max_user_connections' active connections
+Error File: /home/u743284955/public_html/conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 10:15:18 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u743284955/public_html/conexion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 11:08:13 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 11:21:47 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u743284955_host already has more than 'max_user_connections' active connections
+Error File: /home/u743284955/public_html/conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 11:21:47 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u743284955/public_html/conexion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 11:45:11 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 8:21:43 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 2, 2014, 8:59:46 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================

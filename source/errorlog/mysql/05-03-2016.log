@@ -1,0 +1,8 @@
+====================================================================
+Query Executed: No Query Executed
+Time Encountered: May 3, 2016, 3:24:05 PM
+URL Location: http://127.0.0.1/ImgWolf/index.php
+IP Address: 127.0.0.1
+Error: Access denied for user 'root'@'localhost' (using password: YES)
+Error Number: 1045
+====================================================================

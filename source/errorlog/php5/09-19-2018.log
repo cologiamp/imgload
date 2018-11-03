@@ -1,0 +1,28 @@
+====================================================================
+Time Encountered: September 19, 2018, 1:47:55 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: September 19, 2018, 1:49:14 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: September 19, 2018, 8:29:40 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: September 19, 2018, 8:29:59 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================

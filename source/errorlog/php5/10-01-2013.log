@@ -1,0 +1,952 @@
+====================================================================
+Time Encountered: October 1, 2013, 12:05:12 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 334
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:05:25 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:05:25 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:05:25 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:05:25 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/conexion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:05:27 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 334
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:06:24 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 334
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:06:39 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 335
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:09:50 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 343
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:10:45 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 343
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:10:47 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 343
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:11:13 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 343
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:14:51 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 12:22:56 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:19:41 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:20:42 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:20:59 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:22:37 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:22:40 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:23:28 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:23:32 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:24:11 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:24:38 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:25:09 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:25:14 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:25:29 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 344
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:25:49 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:26:17 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:26:41 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:27:01 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:27:11 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:27:36 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:28:15 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:28:32 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:28:51 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:38:53 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:38:53 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:25:39 AM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/a8607771/public_html/images/05713826801829236725_thumb.jpg)
+Error File: /home/a8607771/public_html/source/includes/imagemagick.php
+Error Line: 68
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:11:53 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:23:32 AM
+Error Type: Warning (Error #2)
+Error String: imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions
+Error File: /home/a8607771/public_html/miniatura.php
+Error Line: 77
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:23:32 AM
+Error Type: Warning (Error #2)
+Error String: imagecopyresampled(): supplied argument is not a valid Image resource
+Error File: /home/a8607771/public_html/miniatura.php
+Error Line: 86
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:23:32 AM
+Error Type: Warning (Error #2)
+Error String: imagejpeg(): supplied argument is not a valid Image resource
+Error File: /home/a8607771/public_html/miniatura.php
+Error Line: 108
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:26:35 AM
+Error Type: Warning (Error #2)
+Error String: imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions
+Error File: /home/a8607771/public_html/miniatura.php
+Error Line: 77
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:26:35 AM
+Error Type: Warning (Error #2)
+Error String: imagecopyresampled(): supplied argument is not a valid Image resource
+Error File: /home/a8607771/public_html/miniatura.php
+Error Line: 86
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:26:35 AM
+Error Type: Warning (Error #2)
+Error String: imagejpeg(): supplied argument is not a valid Image resource
+Error File: /home/a8607771/public_html/miniatura.php
+Error Line: 108
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:29:49 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 342
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:36:07 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:36:08 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:37:23 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:37:23 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:37:25 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:37:25 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:38:49 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:38:49 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:38:54 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:38:54 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:39:02 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:39:02 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:41:09 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:41:09 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:41:11 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:41:11 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:41:27 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:41:27 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:54:44 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:54:44 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:55:50 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 1:55:50 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:00:31 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:00:31 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:00:35 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:00:35 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:00:39 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:00:39 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:12 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:12 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:43 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:43 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:46 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:46 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:51 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:01:51 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:03:32 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:03:32 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:03:34 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_array(): supplied argument is not a valid MySQL result resource
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 283
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:03:34 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:04:24 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:04:29 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:05:30 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:05:37 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:06:31 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:06:33 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:06:39 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:06:51 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:06:56 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:07:24 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:09:18 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:10:40 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:10:57 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:11:16 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:11:49 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:12:36 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:12:55 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:13:21 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:50:34 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:51:03 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 2:51:43 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:04:28 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:05:13 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:05:45 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 362
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:07:17 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:09:43 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:10:01 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:11:18 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:11:20 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:11:34 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:12:11 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:12:30 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:12:48 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:13:05 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:14:24 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:14:45 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:15:11 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:15:32 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:15:49 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:16:07 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:16:19 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:17:02 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:17:25 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:18:02 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:18:37 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:19:41 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:19:48 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:20:33 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 3:21:21 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================
+====================================================================
+Time Encountered: October 1, 2013, 4:35:52 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 370
+====================================================================

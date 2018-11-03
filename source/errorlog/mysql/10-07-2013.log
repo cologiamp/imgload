@@ -1,0 +1,8 @@
+====================================================================
+Query Executed: INSERT INTO `mmh_file_storage` (`filename`, `filename_thumb`, `is_private`, `gallery_id`, `file_title`, `album_id`, `microtime`) VALUES ('16858097775908950216.jpg', '16858097775908950216_thumb.jpg', '0', '2', 'marilyn-monroe002.jp...', '0'); 
+Time Encountered: October 7, 2013, 7:29:53 AM
+URL Location: http://imgcookie.net23.net/upload.php
+IP Address: 190.139.5.33
+Error: Column count doesn't match value count at row 1
+Error Number: 1136
+====================================================================

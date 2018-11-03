@@ -1,0 +1,7 @@
+====================================================================
+Time Encountered: January 22, 2014, 11:31:20 PM
+Error Type: Warning (Error #2)
+Error String: mysql_fetch_assoc() expects parameter 1 to be resource, boolean given
+Error File: /home/u878484976/public_html/stats6.php
+Error Line: 852
+====================================================================

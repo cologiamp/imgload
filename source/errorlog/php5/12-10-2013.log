@@ -1,0 +1,84 @@
+====================================================================
+Time Encountered: December 10, 2013, 1:09:16 PM
+Error Type: Warning (Error #2)
+Error String: require_once(/home/a8607771/public_html/imgdino/source/language/core/data.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory
+Error File: /home/a8607771/public_html/imgdino/source/includes/data.php
+Error Line: 47
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 1:09:16 PM
+Error Type: Strict Notice (Error #2048)
+Error String: require_once() [<a href='function.require-once'>function.require-once</a>]: It is not safe to rely on the system's timezone settings. Please use the date.timezone setting, the TZ environment variable or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead
+Error File: /home/a8607771/public_html/imgdino/source/includes/data.php
+Error Line: 47
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 1:09:59 PM
+Error Type: Warning (Error #2)
+Error String: require_once(/home/a8607771/public_html/imgdino/source/language/core/data.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory
+Error File: /home/a8607771/public_html/imgdino/source/includes/data.php
+Error Line: 47
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 1:09:59 PM
+Error Type: Strict Notice (Error #2048)
+Error String: require_once() [<a href='function.require-once'>function.require-once</a>]: It is not safe to rely on the system's timezone settings. Please use the date.timezone setting, the TZ environment variable or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead
+Error File: /home/a8607771/public_html/imgdino/source/includes/data.php
+Error Line: 47
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 6:40:17 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr() [<a href='function.gethostbyaddr'>function.gethostbyaddr</a>]: Address is not a valid IPv4 or IPv6 address
+Error File: /home/a8607771/public_html/imgdino/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 6:40:49 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr() [<a href='function.gethostbyaddr'>function.gethostbyaddr</a>]: Address is not a valid IPv4 or IPv6 address
+Error File: /home/a8607771/public_html/imgdino/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 6:55:32 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 399
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 7:42:48 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 399
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 7:44:33 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 430
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 7:47:16 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 431
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 10:45:35 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 431
+====================================================================
+====================================================================
+Time Encountered: December 10, 2013, 11:32:48 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 431
+====================================================================

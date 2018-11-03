@@ -1,0 +1,21 @@
+====================================================================
+Time Encountered: January 21, 2014, 10:20:32 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u878484976_rex already has more than 'max_user_connections' active connections
+Error File: /home/u878484976/public_html/conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: January 21, 2014, 10:20:34 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u878484976/public_html/conexion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: January 21, 2014, 10:22:12 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u878484976/public_html/flash.php
+Error Line: 53
+====================================================================

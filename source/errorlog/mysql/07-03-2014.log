@@ -1,0 +1,16 @@
+====================================================================
+Query Executed: No Query Executed
+Time Encountered: July 3, 2014, 9:24:22 AM
+URL Location: http://www.imgbanana.com/viewer.php?file=11592944146586168129.jpg
+IP Address: 184.169.203.101
+Error: User u743284955_host already has more than 'max_user_connections' active connections
+Error Number: 1203
+====================================================================
+====================================================================
+Query Executed: INSERT INTO `mmh_file_storage` (`filename`, `filename_thumb`, `is_private`, `gallery_id`, `file_title`, `album_id`, `microtime`) VALUES ('80532670435405627803.jpg', '80532670435405627803_thumb.jpg', '0', '141', 'femjoy_116226_010.jp...', '0', '1404400661'); 
+Time Encountered: July 3, 2014, 11:17:41 AM
+URL Location: http://imgbanana.com/upload.php
+IP Address: 95.211.95.21
+Error: MySQL server has gone away
+Error Number: 2006
+====================================================================

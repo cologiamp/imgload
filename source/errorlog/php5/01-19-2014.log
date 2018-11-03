@@ -1,0 +1,21 @@
+====================================================================
+Time Encountered: January 19, 2014, 6:31:44 AM
+Error Type: Warning (Error #2)
+Error String: require_once(/home/u878484976/public_html/source/language/core/data.php): failed to open stream: No such file or directory
+Error File: /home/u878484976/public_html/source/includes/data.php
+Error Line: 47
+====================================================================
+====================================================================
+Time Encountered: January 19, 2014, 6:31:44 AM
+Error Type: Unknown Error (Error #64)
+Error String: require_once(): Failed opening required '/home/u878484976/public_html/source/language/core/data.php' (include_path='.:/usr/lib/php')
+Error File: /home/u878484976/public_html/source/includes/data.php
+Error Line: 47
+====================================================================
+====================================================================
+Time Encountered: January 19, 2014, 6:35:47 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): Can't connect to MySQL server on 'mysql4.000webhost.com' (4)
+Error File: /home/u878484976/public_html/source/includes/database.php
+Error Line: 20
+====================================================================

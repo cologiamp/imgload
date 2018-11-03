@@ -1,0 +1,168 @@
+====================================================================
+Time Encountered: February 7, 2014, 4:36:52 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/news.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 4:36:53 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 7:00:00 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/news.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: Warning (Error #2)
+Error String: imagecreatetruecolor(): Invalid image dimensions
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 295
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: Warning (Error #2)
+Error String: imagecopyresampled() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 296
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: Warning (Error #2)
+Error String: imagepng() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 299
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: Warning (Error #2)
+Error String: chmod(): No such file or directory
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 300
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: Warning (Error #2)
+Error String: imagedestroy() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 303
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: Warning (Error #2)
+Error String: chmod(): No such file or directory
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 307
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:48:25 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/u415325995/public_html/images/44066835024360053965_thumb.jpg)
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 68
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: Warning (Error #2)
+Error String: imagecreatetruecolor(): Invalid image dimensions
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 295
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: Warning (Error #2)
+Error String: imagecopyresampled() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 296
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: Warning (Error #2)
+Error String: imagepng() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 299
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: Warning (Error #2)
+Error String: chmod(): No such file or directory
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 300
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: Warning (Error #2)
+Error String: imagedestroy() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 303
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: Warning (Error #2)
+Error String: chmod(): No such file or directory
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 307
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:50:50 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/u415325995/public_html/images/85665564725385318881_thumb.jpg)
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 68
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: Warning (Error #2)
+Error String: imagecreatetruecolor(): Invalid image dimensions
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 295
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: Warning (Error #2)
+Error String: imagecopyresampled() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 296
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: Warning (Error #2)
+Error String: imagepng() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 299
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: Warning (Error #2)
+Error String: chmod(): No such file or directory
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 300
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: Warning (Error #2)
+Error String: imagedestroy() expects parameter 1 to be resource, boolean given
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 303
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: Warning (Error #2)
+Error String: chmod(): No such file or directory
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 307
+====================================================================
+====================================================================
+Time Encountered: February 7, 2014, 10:51:21 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (/home/u415325995/public_html/images/62388015528228919402_thumb.jpg)
+Error File: /home/u415325995/public_html/source/includes/imagemagick.php
+Error Line: 68
+====================================================================

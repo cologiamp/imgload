@@ -1,0 +1,378 @@
+====================================================================
+Time Encountered: September 30, 2013, 11:10:43 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:11:36 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'cologiamp.db.11730616.hostedresource.com' (4)
+Error File: /home/a8607771/public_html/conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:11:36 PM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/conexion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:11:46 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'cologiamp.db.11730616.hostedresource.com' (4)
+Error File: /home/a8607771/public_html/conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:11:46 PM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/conexion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:12:53 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 186
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:14:08 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 190
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:16:30 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:16:33 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:16:36 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:16:37 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:16:45 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:16:58 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:18:19 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:18:49 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:19:52 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'cologiamp.db.11730616.hostedresource.com' (4)
+Error File: /home/a8607771/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:19:52 PM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/configuracion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:20:09 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'cologiamp.db.11730616.hostedresource.com' (4)
+Error File: /home/a8607771/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:20:09 PM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/configuracion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:20:28 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:20:41 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'cologiamp.db.11730616.hostedresource.com' (4)
+Error File: /home/a8607771/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:20:41 PM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/configuracion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:20:41 PM
+Error Type: Warning (Error #2)
+Error String: mysql_query(): supplied argument is not a valid MySQL-Link resource
+Error File: /home/a8607771/public_html/viewer.php
+Error Line: 119
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:22:49 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:25:17 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:25:36 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:33:27 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:33:27 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:33:27 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:36:50 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:36:51 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 165
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:38:37 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:39:11 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:39:13 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:39:43 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:39:45 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:40:30 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:40:32 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:40:51 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:41:06 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:41:40 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:41:43 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:42:13 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 164
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:42:50 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:45:52 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 163
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:45:56 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:45:56 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:49:36 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 146
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:50:49 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 145
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:50:51 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 145
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:52:20 PM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 145
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:53:36 PM
+Error Type: Warning (Error #2)
+Error String: Invalid argument supplied for foreach()
+Error File: /home/a8607771/public_html/stats.php
+Error Line: 173
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:56:47 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: September 30, 2013, 11:56:47 PM
+Error Type: Warning (Error #2)
+Error String: mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User a8607771_imgcook already has more than 'max_user_connections' active connections
+Error File: /home/a8607771/public_html/source/includes/database.php
+Error Line: 20
+====================================================================

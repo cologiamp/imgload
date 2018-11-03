@@ -1,0 +1,658 @@
+====================================================================
+Time Encountered: July 19, 2016, 8:55:07 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:55:07 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:10 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:10 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:13 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:13 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:13 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:13 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: C:\wamp\www\imgwolf\flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:16 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:16 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:18 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:18 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:20 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:20 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:27 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:27 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:27 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:27 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:31 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:31 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:33 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:33 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:33 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:36 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:36 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:44 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:44 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:44 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:44 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:58:44 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (C:wamptmpphpDC03.tmp)
+Error File: C:\wamp\www\imgwolf\source\includes\imagemagick.php
+Error Line: 68
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:26 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:26 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:29 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:29 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:29 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:29 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:29 PM
+Error Type: User Error (Error #256)
+Error String: mmhclass->image->is_image(): image does not exist. (C:wamptmpphp8D96.tmp)
+Error File: C:\wamp\www\imgwolf\source\includes\imagemagick.php
+Error Line: 68
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:36 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:36 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:37 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:37 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:37 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:40 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:40 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:41 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:41 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:41 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:41 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:43 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:43 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:43 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 8:59:53 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:02 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:02 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:09 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:09 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:09 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:12 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:12 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:12 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:15 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:00:15 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:01:19 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:01:19 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:01:21 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:01:21 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:32 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:32 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:32 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:35 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:35 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:35 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\conexion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:39 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:39 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:42 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:42 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:47 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:47 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:54 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:54 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:56 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:16:56 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:17:01 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:17:01 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:17:06 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:17:06 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:17:12 PM
+Error Type: Warning (Error #2)
+Error String: ob_start(): second array member is not a valid method
+Error File: C:\wamp\www\imgwolf\source\includes\data.php
+Error Line: 78
+====================================================================
+====================================================================
+Time Encountered: July 19, 2016, 9:17:12 PM
+Error Type: Unknown Error (Error #8192)
+Error String: mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+Error File: C:\wamp\www\imgwolf\source\includes\database.php
+Error Line: 20
+====================================================================

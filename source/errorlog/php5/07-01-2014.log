@@ -1,0 +1,28 @@
+====================================================================
+Time Encountered: July 1, 2014, 1:29:18 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u743284955_host already has more than 'max_user_connections' active connections
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: July 1, 2014, 1:29:18 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: July 1, 2014, 6:30:09 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: July 1, 2014, 7:50:32 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u743284955/public_html/flash.php
+Error Line: 53
+====================================================================

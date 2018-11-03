@@ -1,0 +1,14 @@
+====================================================================
+Time Encountered: February 8, 2014, 1:54:36 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/news.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: February 8, 2014, 8:05:00 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/flash.php
+Error Line: 53
+====================================================================

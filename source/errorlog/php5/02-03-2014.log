@@ -1,0 +1,35 @@
+====================================================================
+Time Encountered: February 3, 2014, 7:58:03 AM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/flash.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: February 3, 2014, 8:14:03 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): Too many connections
+Error File: /home/u415325995/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: February 3, 2014, 8:14:07 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): Too many connections
+Error File: /home/u415325995/public_html/source/includes/database.php
+Error Line: 20
+====================================================================
+====================================================================
+Time Encountered: February 3, 2014, 3:13:34 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/news.php
+Error Line: 53
+====================================================================
+====================================================================
+Time Encountered: February 3, 2014, 3:38:49 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr(): Address is not a valid IPv4 or IPv6 address
+Error File: /home/u415325995/public_html/news.php
+Error Line: 53
+====================================================================

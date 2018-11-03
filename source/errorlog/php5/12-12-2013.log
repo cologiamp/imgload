@@ -1,0 +1,14 @@
+====================================================================
+Time Encountered: December 12, 2013, 12:05:38 AM
+Error Type: Fatal Error (Error #1)
+Error String: Class 'DateInterval' not found
+Error File: /home/a8607771/public_html/imgdino/stats.php
+Error Line: 431
+====================================================================
+====================================================================
+Time Encountered: December 12, 2013, 6:09:07 PM
+Error Type: Warning (Error #2)
+Error String: gethostbyaddr() [<a href='function.gethostbyaddr'>function.gethostbyaddr</a>]: Address is not a valid IPv4 or IPv6 address
+Error File: /home/a8607771/public_html/imgdino/flash.php
+Error Line: 53
+====================================================================

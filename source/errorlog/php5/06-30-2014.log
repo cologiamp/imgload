@@ -1,0 +1,28 @@
+====================================================================
+Time Encountered: June 30, 2014, 3:36:52 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u743284955_host already has more than 'max_user_connections' active connections
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: June 30, 2014, 3:36:52 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 7
+====================================================================
+====================================================================
+Time Encountered: June 30, 2014, 11:14:04 AM
+Error Type: Warning (Error #2)
+Error String: mysql_connect(): User u743284955_host already has more than 'max_user_connections' active connections
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 6
+====================================================================
+====================================================================
+Time Encountered: June 30, 2014, 11:14:04 AM
+Error Type: Warning (Error #2)
+Error String: mysql_select_db() expects parameter 2 to be resource, boolean given
+Error File: /home/u743284955/public_html/configuracion.php
+Error Line: 7
+====================================================================
