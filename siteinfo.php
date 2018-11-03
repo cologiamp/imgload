@@ -2,10 +2,10 @@
 
 /*SITEINFO.PHP LANGUAJE CONFIGURATION*/
 
-$siteinfo_basename = "http://imgwolf.000webhostapp.com"; /* CONFIG FOR CONSTANT SITEINFO_BASENAME, please use format: http://www.imgchili.com 
+$siteinfo_basename = "http://198.7.63.44/imgload"; /* CONFIG FOR CONSTANT SITEINFO_BASENAME, please use format: http://www.imgchili.com 
 													  DON'T USE "/" AT THE END	*/
 													  
-$siteinfo_title = "ImgWolf.com"; //ex: ImgChili
+$siteinfo_title = "ImgLoad.net"; //ex: ImgChili
 
 
 /*
