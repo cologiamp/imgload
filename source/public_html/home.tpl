@@ -147,24 +147,23 @@ Images up to 30 Mb
 	}
 </script>
 
-<br/>
-
-<br/>
-
-Remote | <a href="./flash">Flash</a> | <a href="./">Local</a>
-<br/>
-
-
-
-
+<div id="content" class="container-fluid">
+<div class="container">
+<div class="row" id="main">
+<div class="col-xs-12 canvas-holder">
+</div>
+<div class="col-xs-12">
+<div class="text1">
+Upload your <div class="word">Images</div><span class="typed-cursor">|</span>
+</div>
+<div class="text2" id="browsetext">
+Enter one URL per line - Images up to 30 Mb
+</div>
 
 <form action="upload.php" method="post" id="upload_form" enctype="multipart/form-data">
 <div class="grey">
 <br />
-	<p>
-		<b>Images up to 30 Megabytes</b>
-		<br>
-		
+
 		<div id="upload_types">
         	<div id="normal_upload" style="display: none;">
                 URL: <input name="userfile[]" type="text" size="55" class="input_field" /> <br />
@@ -182,8 +181,10 @@ Remote | <a href="./flash">Flash</a> | <a href="./">Local</a>
             </div>
             
             <div id="paste_upload">
+            <div class="form-group">
            		<textarea onfocus="limitTextarea(this,40,1000)" name="paste_upload" cols="60" rows="10" class="input_field" style="width: 440px;"></textarea>
                 <br />
+            </div>
             </div>
         </div>
 		
@@ -229,10 +230,14 @@ Remote | <a href="./flash">Flash</a> | <a href="./">Local</a>
 			</endif>
             
             <if="$mmhclass->info->is_user == false || $mmhclass->info->is_user == true && $mmhclass->info->user_data['private_gallery'] == false">
+                <!--
                 Upload Type: 
 				<input type="radio" name="private_upload" value="0" checked="checked" /> <label style="color:red">Adult/NSFW</label>
 				<input type="radio" name="private_upload" value="1" /> <label style="color:green">Family Safe</label>
                 <br />
+                -->
+                <input type="hidden" name="private_upload" value="0" checked="checked" />
+                <input type="hidden" name="private_upload" value="1" />
             </endif>
             <div style="visibility: hidden;">
            Output Layout: 
@@ -258,14 +263,21 @@ Thumbnail size:<select name="thumbsize">
 
 		<input class="button1" type="hidden" value="Add More Files" onclick="new_file_input('url');" id="more_files_button" /> 
 		<input class="button1" type="button" value="Start Uploading" onclick="toggle_lightbox('index.php?act=upload_in_progress', 'progress_bar_lightbox'); $('form[id=upload_form]').submit();" />
-	</p>
 </form>
-<br /><br />
+
+
+</div>
+
+</div>
+</div>
+</div>
+
 
 
 </center>
 </template>
 <!-- END: URL UPLOAD PAGE -->
+
 
 <!-- BEGIN: UPLOADER PROGRESS BAR LIGHTBOX -->
 <template id="upload_in_progress_lightbox">
