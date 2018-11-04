@@ -321,7 +321,9 @@ If successful you will be able to log in using the following information:
 </div>
 </TD>
 <TD style="border:0;">
+<div class="form-group">
  <textarea class="form-control" onclick="highlight(this);"  class="forum_links_target input_field" id="forum_links_target" cols="45" rows="10"></textarea> 
+</div>
 </TD>
 </TR>
 </TABLE>    </div>
