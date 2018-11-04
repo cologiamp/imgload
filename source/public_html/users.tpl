@@ -308,16 +308,22 @@ If successful you will be able to log in using the following information:
         <# PAGINATION_LINKS #>
    </div>
 
-   <br /> <div class="textareag form-group"><TABLE BORDER=0 CELLPADDING=0>
+   <br /> <div class="textareag form-group"><TABLE style="width: 100%" BORDER=0 CELLPADDING=0>
 <TR rowspan=3> <TH class="table_header2 faqtitulo">&nbsp;Links:</TH><TH class="table_header2 faqtitulo">&nbsp;Forum Links:</TH><TH class="table_header2 faqtitulo" >&nbsp;HTML Links:</TH> </TR>
 <TD style="border:0;">
+<div class="form-group">
 	<textarea class="form-control" onclick="highlight(this);"  class="forum_links_target input_field" id="links_target" cols="45" rows="10"></textarea>
+</div>
 </TD>
 <TD style="border:0;">
+<div class="form-group">
 	<textarea class="form-control" onclick="highlight(this);"  class="forum_links_target input_field" id="forum_links_target" cols="45" rows="10"></textarea>
+</div>
 </TD>
 <TD style="border:0;">
- <textarea class="form-control" onclick="highlight(this);"  class="forum_links_target input_field" id="html_links_target" cols="45" rows="10"></textarea> 
+<div class="form-group">
+ <textarea class="form-control" onclick="highlight(this);"  class="forum_links_target input_field" id="html_links_target" cols="45" rows="10"></textarea>
+</div> 
 </TD>
 </TR>
 </TABLE>    </div>
