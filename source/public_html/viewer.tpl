@@ -223,7 +223,7 @@
 		<!-- END Ad Tag EXOCLICK-->
 	<else>
 		<!--JuicyAds v2.0-->
-		<iframe border=0 frameborder=0 marginheight=0 marginwidth=0 width=616 height=258 scrolling=no allowtransparency=true src=http://adserver.juicyads.com/adshow.php?adzone=323549></iframe>
+		
 		<!--JuicyAds END-->		
 	</endif>
 		<br>
