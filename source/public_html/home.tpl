@@ -189,7 +189,7 @@ Enter one URL per line - Images up to 30 Mb
         </div>
 		
 		
-		<div style="visibility: hidden">
+		<div style="visibility: hidden; height: 0px;">
 		
 		URL Upload Type: 
         <select name="url_upload_type" onchange="set_upload_type(this);">
@@ -225,8 +225,7 @@ Enter one URL per line - Images up to 30 Mb
                    		<option value="<# ALBUM_ID #>">&bull; <# ALBUM_NAME #></option>
                     </endwhile>
             	</select>
-                <br />
-				<br>
+
 			</endif>
             
             <if="$mmhclass->info->is_user == false || $mmhclass->info->is_user == true && $mmhclass->info->user_data['private_gallery'] == false">
