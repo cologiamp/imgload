@@ -16,13 +16,10 @@
 </endif>
 
 <!-- Begin Exoclick PopUnder Code -->
-<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?idzone=1070040&type=3"></script>
 <!-- Begin Exoclick PopUnder Code -->
 
 
 <!-- Begin JuicyAds PopUnder Code -->
-<script type="text/javascript">juicy_code='74c4y2w2r256r2p2r2a463c4';</script>
-<script type="text/javascript" src="http://ads.juicyads.com/jsclients/jac.js" charset="utf-8"></script>
 <!-- End JuicyAds PopUnder Code -->
 
 <script type="text/javascript">
@@ -66,20 +63,14 @@
 		<div align="center">
 		<!-- BEGIN Ad Tag EXOCLICK-->
 		<!-- BEGIN SMOWTION TAG - 728x90 - DO NOT MODIFY -->
-		<script type="text/javascript">
-		smowtion_size = "728x90";
-		smowtion_section = "6151373";
-		</script>
-		<script type="text/javascript"
-		src="http://ads.smowtion.com/ad.js?s=6151373&amp;z=728x90">
-		</script>
+
 		<!-- END SMOWTION TAG - 728x90 - DO NOT MODIFY -->
 		<!-- END Ad Tag EXOCLICK-->
 		</div>
 
 	<else>
 		<!--JuicyAds v2.0-->
-		<iframe border=0 frameborder=0 marginheight=0 marginwidth=0 width=616 height=258 scrolling=no allowtransparency=true src=http://adserver.juicyads.com/adshow.php?adzone=323549></iframe>
+		
 		<!--JuicyAds END-->		
 	</endif>
 		<br>
@@ -101,24 +92,12 @@
 		<div style="margin-left:-305px;">
 		<div style="margin: 0 0 0 0;">
 		<!-- BEGIN Ad Tag EXOCLICK-->
-		<script type="text/javascript">
-		ad_idzone = "1069986";
-		ad_width = "300";
-		ad_height = "250";
-		</script>
-		<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
-		<noscript><a href="http://main.exoclick.com/img-click.php?idzone=1069986" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=1069986&output=img&type=300x250" width="300" height="250"></a></noscript>
+		
 		<!-- END Ad Tag EXOCLICK-->
 		</div>
 		<div style="margin:-250px 0 0 605px;">
 		<!-- BEGIN Ad Tag EXOCLICK-->
-		<script type="text/javascript">
-		ad_idzone = "1069990";
-		ad_width = "300";
-		ad_height = "250";
-		</script>
-		<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
-		<noscript><a href="http://main.exoclick.com/img-click.php?idzone=1069990" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=1069990&output=img&type=300x250" width="300" height="250"></a></noscript>
+		
 		<!-- END Ad Tag -->
 		</div>
 		</div>
@@ -164,14 +143,12 @@
 <template id="viewer_image2">
 
 <!-- Begin JuicyAds PopUnder Code -->
-<script type="text/javascript">juicy_code='74c4y2w2r256r2p2r2a463c4';</script>
-<script type="text/javascript" src="http://ads.juicyads.com/jsclients/jac.js" charset="utf-8"></script>
+
 <!-- End JuicyAds PopUnder Code -->
 
 
 <!-- EXOCLICK PopUnder Code -->
 <!-- Begin Exoclick PopUnder Code -->
-<script type="text/javascript" src="http://syndication.exoclick.com/splash.php?idzone=1070040&type=3"></script>
 <!-- Begin Exoclick PopUnder Code -->
 <!-- EXOCLICK PopUnder Code -->
 
@@ -221,13 +198,7 @@
 	<if="$mmhclass->templ->templ_globals['familysafe'] == 1">
 		<!-- BEGIN Ad Tag EXOCLICK-->
 		<!-- BEGIN SMOWTION TAG - 728x90 - DO NOT MODIFY -->
-		<script type="text/javascript">
-		smowtion_size = "728x90";
-		smowtion_section = "6151373";
-		</script>
-		<script type="text/javascript"
-		src="http://ads.smowtion.com/ad.js?s=6151373&amp;z=728x90">
-		</script>
+
 		<!-- END SMOWTION TAG - 728x90 - DO NOT MODIFY -->
 		<!-- END Ad Tag EXOCLICK-->
 	<else>
@@ -257,24 +228,12 @@
 
 		<div style="margin: 0 0 0 0;">
 		<!-- BEGIN Ad Tag EXOCLICK-->
-		<script type="text/javascript">
-		ad_idzone = "1069986";
-		ad_width = "300";
-		ad_height = "250";
-		</script>
-		<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
-		<noscript><a href="http://main.exoclick.com/img-click.php?idzone=1069986" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=1069986&output=img&type=300x250" width="300" height="250"></a></noscript>
+
 		<!-- END Ad Tag EXOCLICK-->
 		</div>
 		<div style="margin:-250px 0 0 605px;">
 		<!-- BEGIN Ad Tag EXOCLICK-->
-		<script type="text/javascript">
-		ad_idzone = "1069990";
-		ad_width = "300";
-		ad_height = "250";
-		</script>
-		<script type="text/javascript" src="https://ads.exoclick.com/ads.js"></script>
-		<noscript><a href="http://main.exoclick.com/img-click.php?idzone=1069990" target="_blank"><img src="https://syndication.exoclick.com/ads-iframe-display.php?idzone=1069990&output=img&type=300x250" width="300" height="250"></a></noscript>
+
 		<!-- END Ad Tag -->
 		</div>
 		</div>
