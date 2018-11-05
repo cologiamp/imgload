@@ -156,7 +156,7 @@ Images up to 30 Mb
 <div class="text1">
 Upload your <div class="word">Images</div><span class="typed-cursor">|</span>
 </div>
-<div class="text2" id="browsetext">
+<div class="text2" id="browsetext" style="margin-bottom: 0px;">
 Enter one URL per line - Images up to 30 Mb
 </div>
 
