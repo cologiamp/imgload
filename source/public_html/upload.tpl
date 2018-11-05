@@ -10,23 +10,23 @@
 		<td style="width: 80%;">
 			<table cellspacing="1" cellpadding="0" border="0" style="width: 100%;">
 				<tr>
-					<td><input readonly="readonly" class="input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="<# BASE_URL #>viewer.php?file=<# FILENAME #>" /></td>
+					<td><input readonly="readonly" class="form-control input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="<# BASE_URL #>viewer.php?file=<# FILENAME #>" /></td>
 					<td>Direct Link</td>
 				</tr>
 				<tr>
-					<td><input readonly="readonly" class="input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="&lt;a href=&quot;<# BASE_URL #>viewer.php?file=<# FILENAME #>&quot;&gt;&lt;img src=&quot;<# THUMBNAIL #>&quot; border=&quot;0&quot; alt=&quot;<# FILENAME #>&quot; /&gt;&lt;/a&gt;" /></td>
+					<td><input readonly="readonly" class="form-control input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="&lt;a href=&quot;<# BASE_URL #>viewer.php?file=<# FILENAME #>&quot;&gt;&lt;img src=&quot;<# THUMBNAIL #>&quot; border=&quot;0&quot; alt=&quot;<# FILENAME #>&quot; /&gt;&lt;/a&gt;" /></td>
 					<td>Thumbnail for Website</td>
 				</tr>
 				<tr>
-					<td><input readonly="readonly" class="input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="[URL=<# BASE_URL #>viewer.php?file=<# FILENAME #>][IMG]<# THUMBNAIL #>[/IMG][/URL]" /></td>
+					<td><input readonly="readonly" class="form-control input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="[URL=<# BASE_URL #>viewer.php?file=<# FILENAME #>][IMG]<# THUMBNAIL #>[/IMG][/URL]" /></td>
 					<td>Thumbnail for Forum</td>
 				</tr>
 				<tr>
-					<td><input readonly="readonly" class="input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="[URL=<# BASE_URL #>viewer.php?file=<# FILENAME #>]<# FILENAME #>[/URL]" /></td>
+					<td><input readonly="readonly" class="form-control input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="[URL=<# BASE_URL #>viewer.php?file=<# FILENAME #>]<# FILENAME #>[/URL]" /></td>
 					<td>Direct link for Forum</td>
 				</tr>
 				<tr>
-					<td><input readonly="readonly" class="input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="Thanks to <# SITE_NAME #> for &lt;a href=&quot;<# BASE_URL #>&quot;&gt;free image hosting&lt;/a&gt;" /></td>
+					<td><input readonly="readonly" class="form-control input_field" onclick="highlight(this);" type="text" style="width: 605px;" value="Thanks to <# SITE_NAME #> for &lt;a href=&quot;<# BASE_URL #>&quot;&gt;free image hosting&lt;/a&gt;" /></td>
 					<td>Link to Us</td>
 				</tr>
 			</table>
