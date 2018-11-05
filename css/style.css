@@ -435,3 +435,15 @@ width: 60%;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 /*FIN POPUP LIGHTBOX*/
+
+/*META IMAGE INFO VIEWER*/
+.table_border {
+    width: 100%;
+    border: 1px solid #EAEAEA;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+/*META IMAGE INFO VIEWER*/
