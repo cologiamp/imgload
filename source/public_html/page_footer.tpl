@@ -4,7 +4,7 @@
 <div class="container">
 <div class="row">
 <div class="col-sm-5c col-xs-6">
-<h5>ImgWolf &copy;</h5>
+<h5>ImgLoad &copy;</h5>
 <ul>
 <li><a href="./">Home</a></li>
 <li><a href="./faq">FAQ</a></li>
