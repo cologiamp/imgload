@@ -52,7 +52,12 @@
         // ]]>
 
     </script>
-	
+<div id="content" class="container-fluid">
+<div class="container">
+<div class="row" id="main">
+
+<div class="col-xs-12">
+
 <div class="text_align_center">
 	<if="$mmhclass->funcs->is_null($mmhclass->input->get_vars['is_random']) == false">
 		<a href="index.php?do_random=1" class="button1">New Random Image</a>
@@ -107,6 +112,7 @@
 	<br>
 </div>
 
+<div style="width: 100%; margin-top: 250px;">
 <center>
 
 <div class="align_left_mfix">
@@ -135,6 +141,14 @@
 			<td colspan="2" class="table_footer">&nbsp;</td>
 		</tr>
 	</table>
+</div>
+
+
+</div>
+
+</div>
+</div>
+</div>
 
 </template>
 <!-- END: MAIN VIEWER PAGE -->
@@ -188,7 +202,13 @@
         // ]]>
 
     </script>
-	
+
+<div id="content" class="container-fluid">
+<div class="container">
+<div class="row" id="main">
+
+<div class="col-xs-12">
+
 <div class="text_align_center">
 	<if="$mmhclass->funcs->is_null($mmhclass->input->get_vars['is_random']) == false">
 		<a href="index.php?do_random=1" class="button1">New Random Image</a>
@@ -242,7 +262,7 @@
 	<br>
 </div>
 
-
+<div style="width: 100%; margin-top: 250px;">
 <center>
 <div class="align_left_mfix">
     <a href="download.php?file=<# FILENAME #>" class="button1">Download Image</a> 
@@ -270,6 +290,14 @@
 			<td colspan="2" class="table_footer">&nbsp;</td>
 		</tr>
 	</table>
+</div>
+
+
+</div>
+
+</div>
+</div>
+</div>
 
 </template>
 <!-- END: MAIN VIEWER PAGE -->
