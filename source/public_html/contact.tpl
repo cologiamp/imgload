@@ -11,7 +11,7 @@ and our <a href="./tos" target="_blank">Terms of Service</a> before sending any 
 <br/>
 <br/>
 This page is under construction. To contact us simply send us an email to:
-<b>support@imgwolf.com</b>
+<b>support@imgload.net</b>
 </div>
 </div>
 </div>
