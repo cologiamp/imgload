@@ -62,10 +62,18 @@
 <div id="content" class="container-fluid">
 <div class="container">
 <div class="row" id="main">
-<div class="col-xs-12 canvas-holder">
+<div style="width: fit-content; margin-left: auto; margin-right: auto; margin-top: 15px; cursor: pointer;">
+<ul class="nav nav-pills">
+<li class="first active">
+<a href="./">Multi Upload</a>
+</li>
+<li class="">
+<a href="./remote">Remote URL Upload</a>
+</li>
+</ul>
 </div>
 <div class="col-xs-12">
-<div class="text1">
+<div class="text1" style="margin-top: 30px;">
 Upload your <div class="word">Images</div><span class="typed-cursor">|</span>
 </div>
 <div class="text2" id="browsetext">
@@ -150,10 +158,18 @@ Images up to 30 Mb
 <div id="content" class="container-fluid">
 <div class="container">
 <div class="row" id="main">
-<div class="col-xs-12 canvas-holder">
+<div style="width: fit-content; margin-left: auto; margin-right: auto; margin-top: 15px; cursor: pointer;">
+<ul class="nav nav-pills">
+<li>
+<a href="./">Multi Upload</a>
+</li>
+<li class="first active">
+<a href="./remote">Remote URL Upload</a>
+</li>
+</ul>
 </div>
 <div class="col-xs-12">
-<div class="text1">
+<div class="text1" style="margin-top: 30px;">
 Upload your <div class="word">Images</div><span class="typed-cursor">|</span>
 </div>
 <div class="text2" id="browsetext" style="margin-bottom: 0px;">
