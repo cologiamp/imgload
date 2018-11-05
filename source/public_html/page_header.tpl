@@ -44,7 +44,7 @@
 <div id="header" class="container-fluid">
 <div class="container">
 <div class="row">
-<div class="col-sm-3 logo-holder"><a href="/"><img src="./css/images/logo.png" alt="Openload"></a></div>
+<div class="col-sm-3 logo-holder"><a href="./"><img src="./css/images/logo.png" alt="Openload"></a></div>
 <div class="col-sm-9 menu-holder">
 <div class="top-menu">
 <if="$mmhclass->info->is_user == true">	
