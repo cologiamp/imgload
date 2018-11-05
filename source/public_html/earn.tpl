@@ -55,7 +55,7 @@
 
 
 <div class="content-text">
-<div class="content-text-bigger">Start using <strong>imgwolf.com</strong> today and benefit of the fast and unlimited upload speed, easy handling and money earnings.</div>
+<div class="content-text-bigger">Start using <strong>imgload.net</strong> today and benefit of the fast and unlimited upload speed, easy handling and money earnings.</div>
 <if="$mmhclass->info->is_user == true">
 
 <else>
