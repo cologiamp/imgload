@@ -97,7 +97,7 @@
     <script type="text/javascript" src="source/includes/scripts/jquery.positionBy.js"></script>
     <script type="text/javascript" src="source/includes/scripts/jquery.dimensions.js"></script>
 	
-	<script type="text/javascript" src="http://netpopads.com/adp.php?tag=7615b91bb87c8e01601"></script>
+	
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
@@ -112,7 +112,7 @@
 <div id="header" class="container-fluid">
 <div class="container">
 <div class="row">
-<div class="col-sm-3 logo-holder"><a href="/"><img src="/css/images/logo.png" alt="Openload"></a></div>
+<div class="col-sm-3 logo-holder"><a href="./"><img src="./css/images/logo.png" alt="Openload"></a></div>
 <div class="col-sm-9 menu-holder">
 <div class="top-menu">
 <?php if ($mmhclass->info->is_user == true) { ?>

@@ -30,7 +30,7 @@
     <script type="text/javascript" src="source/includes/scripts/jquery.positionBy.js"></script>
     <script type="text/javascript" src="source/includes/scripts/jquery.dimensions.js"></script>
 	
-    <script type="text/javascript" src="http://198.7.63.44/netpopads/adp.php?tag=7615b91bb87c8e01601"></script>
+    
     
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
